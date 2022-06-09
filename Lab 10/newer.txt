@@ -1,0 +1,3 @@
+
+Java was developed by James Gosling at Sun Microsystems Inc in the year 1991, later acquired by oracle corporation. It is a simple programming language.
+Java makes writing, Compiling, and debugging programming easy.
